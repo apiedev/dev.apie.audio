@@ -1,6 +1,11 @@
 {
   "name": "dev.apie.audio",
   "version": "0.0.1",
-  "description": "A collection of audio to use for projects and samples.",
-  "displayName": "Apiedev Audio"
+  "displayName": "Apiedev Audio",
+  "description": "Audio sample pack for starting off fantasy games.",
+  "author": {
+    "name": "apiedev",
+    "email": "alec.m.pierce@gmail.com",
+    "url": "https://apie.dev/"
+  }
 }
